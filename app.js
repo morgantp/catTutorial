@@ -1,6 +1,6 @@
 // Write your JS in here
 var pics = [
-	"imgs/kitty_bed.jpg",
+	"imgs/kitty_bed.JPG",
 	"imgs/kitty_basket.jpg", 
 	"imgs/kitty_laptop.jpg",
 	"imgs/kitty_door.jpg",
